@@ -7,7 +7,7 @@ A basic renderer for a 3D textured icosahedron with trimetric perspective and si
 
 ## Part Two:
 
-A more advanced renderer for three 3D textured icosahedron with perspective was developed. Sinusoidal animation and smooth shading with a white point light source was also implemented. 
+A more advanced renderer for three 3D textured icosahedron with single-point perspective projection was developed. Sinusoidal animation and smooth shading with a white point light source was also implemented. 
 
 ## Part Three:
 
@@ -15,4 +15,4 @@ A successful implementation of stereo render in [anaglyph 3D](https://en.wikiped
 
 ## Part Four:
 
-Full Phong shading with a normal map and white point light source was added to the advanced renderer with a 3D textured icosahedron with perspective and sinusoidal animation. 
+Full Phong shading with a normal map and white point light source was added to the advanced renderer with a 3D textured icosahedron with single-point perspective projection and sinusoidal animation. 
